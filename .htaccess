@@ -1,0 +1,18 @@
+# Check si le mod rewrite est activé
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)$ index.php?p=$1 [QSA,L]
+
+</IfModule>
+
+# Check si php5 est activé pour php_flag
+<IfModule mod_php5.c>
+php_flag display_startup_errors off
+php_flag display_errors off
+php_flag html_errors off
+php_value docref_root 0
+php_value docref_ext 0
+</IfModule>
