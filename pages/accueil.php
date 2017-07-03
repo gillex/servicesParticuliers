@@ -28,7 +28,7 @@
 			<div class="row">
 				<div class="col-sm-4 text-center feature">
 					<i class="fa fa-tablet icon"></i>
-					<h3>Responsive Bootstrap Template</h3>
+					<h3>Livraison en moins de 24h</h3>
 					<p>
 					Lorem ipsum dolizzle sit tellivizzle, boom shackalack adipiscing elit. Nullam mofo velizzle, get down get down stuff, sure cool, dizzle vizzle, arcu. Yo mamma izzle tortizzle.
 					</p>
@@ -159,75 +159,3 @@
 			</div>
 		</div>
 	</div> <!-- /pricingWrap -->
-	
-	<div id="testimonialsWrap" class="altWrap">
-		<div class="container">
-			<div class="row">
-				<div class="col-xs-12">
-					<h2 class="sectionTitle">What people say</h2>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-xs-12">
-					<div class="flexslider">
-						<ul class="slides">
-							<li>
-								<div class="quote">"Etizzle laoreet doggy dope nisl. Dang pulvinizzle, ipsizzle dawg."</div>
-								<div class="author">Martin Nizzle</div>
-							</li>
-							<li>
-								<div class="quote">"Crazy tellus urna, yo mamma check out this, eleifend you son of a bizzle."</div>
-								<div class="author">Jennifer Aliquizzle</div>
-							</li>
-							<li>
-								<div class="quote">"Praesent i saw beyonces tizzles and my pizzle went crizzle turpizzle."</div>
-								<div class="author">William Lorizzle</div>
-							</li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div> <!-- /testimonialsWrap -->
-	
-	<div id="contactWrap">
-		<div class="overlay">
-			<div class="container">
-				<div class="row">
-						<div class="col-xs-12">
-						<h2 class="sectionTitle">Contact us</h2>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-xs-12 text-center">
-						<div class="blurb">
-						Want to chat? Send us a message. We'd love to hear from you!
-						</div>
-					</div>
-				</div>
-					<div class="row">
-						<div class="col-sm-4 col-sm-offset-2">
-							<div class="inputContainer">
-							<label>Name</label>
-								<input type="text" name="contactName" id="contactName" value="" class="form-control" autocomplete="off" />
-							</div>
-						</div>
-						<div class="col-sm-4">
-							<div class="inputContainer">
-							<label class="screen-reader-text">Email</label>
-								<input type="text" name="email" id="email" value="" class="form-control" autocomplete="off"  />
-							</div>
-						</div>
-						<div class="col-sm-8 col-sm-offset-2">
-							<div class="inputContainer">
-							<label class="screen-reader-text">Message</label>
-								<textarea name="comments" id="commentsText" class="form-control" autocomplete="off"></textarea>
-							</div>
-						</div>
-						<div class="col-sm-8 col-sm-offset-2">
-							<button name="submit" type="button" class="btn btn-primary btn-lg">Send</button>
-						</div>
-					</div>
-			</div>
-		</div>
-	</div> <!-- /contactWrap -->

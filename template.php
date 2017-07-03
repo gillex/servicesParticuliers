@@ -34,6 +34,8 @@
 		<!-- Bootstrap core CSS -->
 		<link href="<?php WEBROOT ?>assets/css/bootstrap.min.css" rel="stylesheet">
 
+		<link href="<?php WEBROOT ?>assets/css/semantic.min.css" rel="stylesheet">
+
 		<!-- Custom styles for this template -->
 		<link href="<?php WEBROOT ?>assets/css/custom.css" rel="stylesheet">
 		<link href="<?php WEBROOT ?>assets/css/flexslider.css" rel="stylesheet">			
@@ -61,18 +63,20 @@
 					<a class="navbar-brand" href="#topWrap">
 						<span class="fa-stack fa-lg">
 							<i class="fa fa-circle fa-stack-2x"></i>
-							<i class="fa fa-mobile fa-stack-1x fa-inverse"></i>
+							<i class="fa fa-cubes fa-stack-1x fa-inverse"></i>
 						</span>
-						App<span class="title">Bay</span>
+						Delivery<span class="title">Service</span>
 					</a>
 				</div>
 				<div class="collapse navbar-collapse appiNav">
 					<ul class="nav navbar-nav">
-						<li><a href="#featureWrap">Features</a></li>
-						<li><a href="#productWrap">The App</a></li>
-						<li><a href="#pricingWrap">Pricing</a></li>
-						<li><a href="#testimonialsWrap">Testimonials</a></li>
-						<li><a href="#contactWrap">Contact Us</a></li>
+						<li><a href="#contactWrap">Connexion/Inscription</a></li>
+						<li>
+							<button style="transform: translateY(55%);" class="ui blue button">Devenir livreur</button>
+						</li>
+						<li>
+							<button style="transform: translateY(55%);" class="ui blue button">Demander une livraison</button>
+						</li>
 					</ul>
 				</div><!--/.nav-collapse -->
 			</div>
