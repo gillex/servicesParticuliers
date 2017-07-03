@@ -92,7 +92,7 @@
     </div>
   </div>
 
-  <main role="main" id="fh5co-main">
+	    <main>
 	      	<?php echo $content; ?>
 	    </main>
 	    <footer role="contentinfo" id="fh5co-footer">
