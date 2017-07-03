@@ -32,14 +32,14 @@
         <!-- Piwik -->
 
 		<!-- Load CSS file -->
-		<link href="<?php WEBROOT ?>assets/css/CHANGEME" media="screen" rel="stylesheet" type="text/css">
+		<link href="<?php WEBROOT ?>assets/css/semantic.min.css" media="screen" rel="stylesheet" type="text/css">
 
 		<!-- Load JS files -->
 		<script src="<?php WEBROOT ?>assets/js/jquery.min.js" type="text/javascript"></script>
 		<!--[if lt IE 9] -->
 		<script src="<?php WEBROOT ?>assets/js/html5shiv.js" type="text/javascript"></script>
 		<!-- [endif]-->		
-		<script src="<?php WEBROOT ?>assets/js/CHANGEME"></script>
+		<script src="<?php WEBROOT ?>assets/js/semantic.min.js"></script>
 	</head>
 	<body>
 	    <header>
